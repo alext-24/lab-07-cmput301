@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Alex Tang`
+- **CCID:** `atang1`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
